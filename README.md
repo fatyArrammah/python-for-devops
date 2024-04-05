@@ -2,5 +2,5 @@
 from zero to hero
 
 
-![python_devops](https://files.fm/u/r68ykuwtqp)
 
+![how-is-python-used-in-devops-2](https://github.com/fatyArrammah/python-for-devops/assets/16983360/0a21a4e7-8049-46ae-b84b-becc3a443300)
