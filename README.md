@@ -2,4 +2,5 @@
 from zero to hero
 
 
-![python_devops](https://images.app.goo.gl/dcyaDi3DmwhvHjq39)
+![python_devops](https://files.fm/u/r68ykuwtqp)
+
